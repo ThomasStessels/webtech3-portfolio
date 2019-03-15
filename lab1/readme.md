@@ -1,4 +1,1 @@
-{\rtf1}
-https://github.com/ThomasStessels/webtech3-portfolio
-
-website Lorien & Thomas : https://github.com/LorienTheunissen/webtech3-lab1
+    <h1><a href="https://github.com/LorienTheunissen/webtech3-lab1">website Lorien & Thomas</a></h1>
