@@ -1,22 +1,19 @@
 # webtech3-portfolio
 
-<h1><a href="https://github.com/ThomasStessels/webtech3-portfolio">Thomas Stessels</a></h1>
+# (https://github.com/ThomasStessels/webtech3-portfolio">Thomas Stessels</a>
 
-<h1>Week 1 - Git</h1>
-<h2><a href="https://github.com/ThomasStessels/webtech3-portfolio/tree/master/lab1">Lab1</a></h2>
-<p>Proof of Git completion</p>
-<a href="https://github.com/ThomasStessels/webtech3-portfolio/blob/master/lab1/ThomasStesselsResultaat.png">
-<img src="https://github.com/ThomasStessels/webtech3-portfolio/blob/master/lab1/ThomasStesselsResultaat.png" alt="GitIt">
-</a>
-<h1>Week 2 - CSS Grid + Flexbox</h1>
-<h2><a href="https://github.com/ThomasStessels/webtech3-portfolio/tree/master/lab2">Lab2</a></h2>
-<p>Proof of Flexbox Froggy completion</p>
-<a href="https://github.com/ThomasStessels/webtech3-portfolio/blob/master/lab2/FlexboxFroggy.png">
-<img src="https://github.com/ThomasStessels/webtech3-portfolio/blob/master/lab2/FlexboxFroggy.png" alt="Froggy">
-</a>
-<p>Proof of CSS Garden completion</p>
-<a href="https://github.com/ThomasStessels/webtech3-portfolio/blob/master/lab2/GridGarden.png">
-<img src="https://github.com/ThomasStessels/webtech3-portfolio/blob/master/lab2/GridGarden.png" alt="Grid">
-</a>    
+# Week 1 - Git
+## [Lab1](https://github.com/ThomasStessels/webtech3-portfolio/tree/master/lab1)
+Proof of Git completion
+[![GitCompletion](https://github.com/ThomasStessels/webtech3-portfolio/blob/master/lab1/ThomasStesselsResultaat.png)]
+(https://github.com/ThomasStessels/webtech3-portfolio/blob/master/lab1/ThomasStesselsResultaat.png)
+# Week 2 - CSS Grid + Flexbox
+## [Lab2](https://github.com/ThomasStessels/webtech3-portfolio/tree/master/lab2)
+Proof of Flexbox Froggy completion
+[![FlexboxFroggy](https://github.com/ThomasStessels/webtech3-portfolio/blob/master/lab2/FlexboxFroggy.png)]
+(https://github.com/ThomasStessels/webtech3-portfolio/blob/master/lab2/FlexboxFroggy.png)
+Proof of CSS Garden completion
+[![GridGarden](https://github.com/ThomasStessels/webtech3-portfolio/blob/master/lab2/GridGarden.png)]
+(https://github.com/ThomasStessels/webtech3-portfolio/blob/master/lab2/GridGarden.png)   
         
-<h2><a href="https://codepen.io/ThomCode/pen/YgoVMv?editors=1100">Link naar codepen IMDStagram</a></h2>
+## [Link naar codepen IMDStagram](https://codepen.io/ThomCode/pen/YgoVMv?editors=1100")
