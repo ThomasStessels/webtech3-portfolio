@@ -13,12 +13,9 @@ Proof of Flexbox Froggy completion
 [![FlexboxFroggy](https://github.com/ThomasStessels/webtech3-portfolio/blob/master/lab2/FlexboxFroggy.png)]
 (https://github.com/ThomasStessels/webtech3-portfolio/blob/master/lab2/FlexboxFroggy.png)
 Proof of CSS Garden completion
-[![GridGarden](https://github.com/ThomasStessels/webtech3-portfolio/blob/master/lab2/GridGarden.png)]
-(https://github.com/ThomasStessels/webtech3-portfolio/blob/master/lab2/GridGarden.png)   
+![GridGarden](https://github.com/ThomasStessels/webtech3-portfolio/blob/master/lab2/GridGarden.png)  
         
-<<<<<<< HEAD
 ## [Link naar codepen IMDStagram](https://codepen.io/ThomCode/pen/YgoVMv?editors=1100")
-=======
 ## [Link naar codepen IMDStagram](https://codepen.io/ThomCode/pen/YgoVMv?editors=1100)
 ## [Link naar codepen Festival Tickets](https://codepen.io/ThomCode/pen/ZZWajo)
->>>>>>> f6af746f37c048ce78faf8e1e194584538d6705d
+
