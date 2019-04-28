@@ -1,0 +1,123 @@
+* {
+    box-sizing: border-box;
+}
+main {
+    display: grid;
+    width: 999px;
+    grid-template-columns: 23% 23% 23% 30%;
+    border: 1px solid black;
+    align-content: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: normal;
+    letter-spacing: 0.2em;
+    background: #FFFFFF; 
+}
+h1 {
+    margin:0;
+}
+
+.weareimd {
+    border-right: 1px solid black;
+    font-size: 32px;
+    grid-column: 1 / span 3;
+    text-align: center;
+}
+.music {
+    font-family: 'Gill Sans', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+    border-right: 1px solid black;
+    padding-top: 20px;
+    font-size: 9px;
+    letter-spacing: 0.5em;
+    grid-column: 1 / span 3;
+    grid-row: 1 / span 1;
+    text-align: center;
+
+}
+.qr {
+    grid-row: 2 / span 2;
+    margin: auto;
+}
+.date {
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    grid-column: 1;
+    grid-row: 3 ;
+    text-align: center;
+}
+.admit {
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    grid-column: 2;
+    grid-row: 3 ;
+    text-align: center;
+}
+.ticket {
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    grid-column: 3;
+    grid-row: 3;
+    text-align: center;
+}
+.comment {
+    font-family: 'Gill Sans', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 0em;
+    grid-column: 1 / span 3;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    text-align: center;
+}
+
+@media only screen and (max-width: 600px){
+    main {
+        width: 280px;
+        grid-template-columns: 50% 50%;
+        border: none;
+    }
+    .weareimd {
+        font-size: 14px;
+        grid-row: 1;
+        border: none;
+        color: #FFFFFF;
+        background-color: black;
+        letter-spacing: 0.3em;
+        padding-top: 15px;
+    }
+    .music {
+        font-size: 8px;
+        letter-spacing: 0.4em;
+        padding-top: 0px;
+        grid-row: 2;
+        border: none;
+        color: #FFFFFF;
+        background-color: black;
+        padding-bottom: 10px;
+    }
+    .qr {
+        grid-row: 3/span 1;
+        padding: 35%; 
+        border: 1px solid black;
+    }
+    .date {
+        grid-column: 1/span 1;
+        grid-row: 4;
+        font-size: 13px;
+        border-top: none;
+        border-left: 1px solid black;
+    }
+    .admit {
+        grid-column: 2/span 2;
+        grid-row: 4;
+        font-size: 13px;
+        border-top: none;
+    }
+    .ticket {
+        grid-row: 6;
+        grid-column: 1/span2;
+        border: 1px solid black;
+    }
+    .comment {
+        display: none;
+    }
+
+}
